@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "293246511942",
+    "firebase_url": "https://trackmybus-fbec5.firebaseio.com",
+    "project_id": "trackmybus-fbec5",
+    "storage_bucket": "trackmybus-fbec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293246511942:android:396eca4e582e4033",
+        "android_client_info": {
+          "package_name": "com.example.knightshade.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293246511942-5cnjf8kq3hg140lfqscoq577doao3i49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9G-IMygaGPBleyfEXsCYDIt7QRpEA0Lw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
